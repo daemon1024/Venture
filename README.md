@@ -1,4 +1,4 @@
-![venture banner](https://raw.githubusercontent.com/Yash-Garg/Venture/master/assets/venture%20banner.jpg?token=ALHMT3Y7G52XG52J5GIA4MS7BLXZ6)
+![venture banner](https://raw.githubusercontent.com/Yash-Garg/Venture/master/assets/venture%20banner.jpg)
 
 # Venture
 
@@ -9,6 +9,9 @@ We have the perfect solution for you. The *Venture* App.
 Feel the most tranquil places around the world while adventuring around unknown facts about them.
 
 ## Previews
+
+| ![screen 1](https://raw.githubusercontent.com/Yash-Garg/Venture/master/assets/screen%201.png) | ![screen 2](https://raw.githubusercontent.com/Yash-Garg/Venture/master/assets/screen%202.1.png) | ![screen 3](https://raw.githubusercontent.com/Yash-Garg/Venture/master/assets/screen%202.2.png) |
+| ------------- |:-------------:| -----:|
 
 ### Tech Stack
 
