@@ -1,3 +1,5 @@
+![venture banner](https://raw.githubusercontent.com/Yash-Garg/Venture/master/assets/venture%20banner.jpg?token=ALHMT3Y7G52XG52J5GIA4MS7BLXZ6)
+
 # Venture
 
 Stuck at home due to quarantine ? Stressed out due to work but have no getaway stuff? 
