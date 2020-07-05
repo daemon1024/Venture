@@ -10,7 +10,7 @@ Feel the most tranquil places around the world while adventuring around unknown 
 
 ### Tech Stack
 
-Flutter , Golang , GCloud
+Flutter (for frontend), Golang and GCloud (for backend)
 
 ### Team
 
